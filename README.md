@@ -18,3 +18,5 @@ Elements (TextBox, Button, CHeckbox, ...)
 ```
 
 2.2 Class
+
+## Dynamic Locator 
